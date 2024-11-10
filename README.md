@@ -1,27 +1,35 @@
-### Jim McGaw
+# Jim McGaw
 
 ## Summary
-Senior Full-Stack Software Engineer and published technical author based in San Francisco. Jack of many trades, master of a few. Happiest when learning or teaching.
+Staff Software Engineer, Full-Stack, published technical author.
+
+## Links
+* [https://www.linkedin.com/in/jimmcgaw/](LinkedIn)
+* [https://github.com/jimmcgaw](Github)
+
+Get in touch: [jpmcgaw [at] gmail.com](mailto:jpmcgaw@gmail.com)
 
 ## Experience
-* Engineering Lead, Invitae - San Francisco, CA (September 2021 - September 2022)
-* Senior Software Engineer, Invitae - San Francisco, CA (September 2020 - September 2021)
+* Staff Software Engineer, Nuna - San Francisco, CA (September 2023 - Present)
+* Lead Software Engineer, Invitae - San Francisco, CA (September 2020 - September 2022)
 * Senior Software Engineer, 23andMe, Inc - Sunnyvale, CA (September 2016 - March 2020)
 * Software Engineer, RightScale - Santa Barbara, CA (June 2012 - March 2016)
-* Various Startup Ventures and Hobby Projects - Santa Barbara, CA (2008 - June 2012)
-* Apress Author, "Beginning Django E-Commerce"
+* Author, "Beginning Django E-Commerce"
 
-## Skills
-* API Design
-* Front-end application development
-* Production systems monitoring
-* Systems and network performance tuning
+## Technical Skills
+* Software Architecture
+* REST API Design
 * MLOps
+* Systems Design
+* Front-end application development
+* Process automation
+* Performance Optimization
 
 ## Programming Languages
 * Python
-* JavaScript (ES5, ES6)
+* JavaScript
 * TypeScript
+* Julia
 
 ## Frameworks
 * Django
@@ -29,16 +37,21 @@ Senior Full-Stack Software Engineer and published technical author based in San 
 * Flask
 * SQLAlchemy
 * React / Redux
-* MLFlow
+* Tensorflow
 
 ## Tools / Systems
 * Docker
-* kubernetes
-* Linux
+* PostgreSQL / PostGIS
 * MySQL
-* PostgreSQL
-* bash
 * Amazon Web Services
+* Linux
+* bash
+* nginx
+
+## Hobby Interests
+* Machine Learning (Deep Learning)
+* Computer Vision and Digital Image Processing
+* Programming Microcontrollers (Arduino)
 
 ## Education
 Bachelor of Arts, Michigan State University

@@ -4,10 +4,10 @@
 Staff Software Engineer, Full-Stack, published technical author.
 
 ## Links
-* [https://www.linkedin.com/in/jimmcgaw/](LinkedIn)
-* [https://github.com/jimmcgaw](Github)
+* <a href="https://www.linkedin.com/in/jimmcgaw/" target="_blank">LinkedIn</a>
+* <a href="https://github.com/jimmcgaw" target="_blank">GitHub</a>
 
-Get in touch: [jpmcgaw [at] gmail.com](mailto:jpmcgaw@gmail.com)
+Get in touch: <a href="mailto:jpmcgaw@gmail.com">jpmcgaw [at] gmail.com</a>
 
 ## Experience
 * Staff Software Engineer, Nuna - San Francisco, CA (September 2023 - Present)
@@ -22,7 +22,7 @@ Get in touch: [jpmcgaw [at] gmail.com](mailto:jpmcgaw@gmail.com)
 * MLOps
 * Systems Design
 * Front-end application development
-* Process automation
+* Process Automation
 * Performance Optimization
 
 ## Programming Languages
@@ -36,8 +36,9 @@ Get in touch: [jpmcgaw [at] gmail.com](mailto:jpmcgaw@gmail.com)
 * Django REST Framework
 * Flask
 * SQLAlchemy
-* React / Redux
-* Tensorflow
+* React
+* Redux
+* PyTorch
 
 ## Tools / Systems
 * Docker
@@ -50,8 +51,7 @@ Get in touch: [jpmcgaw [at] gmail.com](mailto:jpmcgaw@gmail.com)
 
 ## Hobby Interests
 * Machine Learning (Deep Learning)
-* Computer Vision and Digital Image Processing
-* Programming Microcontrollers (Arduino)
+* Computer Vision
 
 ## Education
 Bachelor of Arts, Michigan State University
